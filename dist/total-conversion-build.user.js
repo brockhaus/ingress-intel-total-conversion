@@ -1,7 +1,7 @@
 // ==UserScript==
 // @id             ingress-intel-total-conversion@brockhaus
 // @name           intel map total conversion
-// @version        0.8.2-2013-03-17-035242
+// @version        0.8.3-2013-03-17-035242
 // @namespace      https://github.com/brockhaus/ingress-intel-total-conversion
 // @updateURL      https://raw.github.com/brockhaus/ingress-intel-total-conversion/gh-pages/dist/total-conversion-build.user.js
 // @downloadURL    https://raw.github.com/brockhaus/ingress-intel-total-conversion/gh-pages/dist/total-conversion-build.user.js

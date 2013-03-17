@@ -2,9 +2,9 @@
 // @id             iitc-plugin-guess-player-levels@breunigs
 // @name           iitc: guess player level
 // @version        0.3
-// @namespace      https://github.com/breunigs/ingress-intel-total-conversion
-// @updateURL      https://raw.github.com/breunigs/ingress-intel-total-conversion/gh-pages/plugins/guess-player-levels.user.js
-// @downloadURL    https://raw.github.com/breunigs/ingress-intel-total-conversion/gh-pages/plugins/guess-player-levels.user.js
+// @namespace      https://github.com/brockhaus/ingress-intel-total-conversion
+// @updateURL      https://raw.github.com/brockhaus/ingress-intel-total-conversion/gh-pages/plugins/guess-player-levels.user.js
+// @downloadURL    https://raw.github.com/brockhaus/ingress-intel-total-conversion/gh-pages/plugins/guess-player-levels.user.js
 // @description    Tries to determine player levels from the data available in the current view
 // @include        https://www.ingress.com/intel*
 // @match          https://www.ingress.com/intel*

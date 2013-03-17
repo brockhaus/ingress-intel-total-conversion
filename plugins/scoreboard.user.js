@@ -2,7 +2,7 @@
 // @id             iitc-plugin-scoreboard@vita10gy
 // @name           iitc: show a localized scoreboard.
 // @version        0.1.3
-// @namespace      https://github.com/brockhaus/ingress-intel-total-conversion
+// @namespace      https://github.com/breunigs/ingress-intel-total-conversion
 // @updateURL      https://raw.github.com/brockhaus/ingress-intel-total-conversion/gh-pages/plugins/scoreboard.user.js
 // @downloadURL    https://raw.github.com/brockhaus/ingress-intel-total-conversion/gh-pages/plugins/scoreboard.user.js
 // @description    A localized scoreboard.

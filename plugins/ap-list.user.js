@@ -2,7 +2,7 @@
 // @id             iitc-plugin-ap-list@xelio
 // @name           iitc: AP List
 // @version        0.4
-// @namespace      https://github.com/brockhaus/ingress-intel-total-conversion
+// @namespace      https://github.com/breunigs/ingress-intel-total-conversion
 // @updateURL      https://raw.github.com/brockhaus/ingress-intel-total-conversion/gh-pages/plugins/ap-list.user.js
 // @downloadURL    https://raw.github.com/brockhaus/ingress-intel-total-conversion/gh-pages/plugins/ap-list.user.js
 // @description    List top 10 portals by AP of either faction. Other functions and controls please refer to the Userguide. (https://github.com/brockhaus/ingress-intel-total-conversion/wiki/Userguide-%28Main-Vanilla-IITC%29#wiki-pluginsAPListUserGuide)

@@ -2,7 +2,7 @@
 // @id             ingress-intel-total-conversion@breunigs
 // @name           intel map total conversion
 // @version        0.8.2-@@BUILDDATE@@
-// @namespace      https://github.com/brockhaus/ingress-intel-total-conversion
+// @namespace      https://github.com/breunigs/ingress-intel-total-conversion
 // @updateURL      https://raw.github.com/brockhaus/ingress-intel-total-conversion/gh-pages/dist/total-conversion-build.user.js
 // @downloadURL    https://raw.github.com/brockhaus/ingress-intel-total-conversion/gh-pages/dist/total-conversion-build.user.js
 // @description    total conversion for the ingress intel map.

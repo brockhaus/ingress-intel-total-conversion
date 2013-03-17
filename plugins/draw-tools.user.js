@@ -2,7 +2,7 @@
 // @id             iitc-plugin-draw-tools@breunigs
 // @name           iitc: draw tools
 // @version        0.2.2
-// @namespace      https://github.com/brockhaus/ingress-intel-total-conversion
+// @namespace      https://github.com/breunigs/ingress-intel-total-conversion
 // @updateURL      https://raw.github.com/brockhaus/ingress-intel-total-conversion/gh-pages/plugins/draw-tools.user.js
 // @downloadURL    https://raw.github.com/brockhaus/ingress-intel-total-conversion/gh-pages/plugins/draw-tools.user.js
 // @description    Allows you to draw things into the current map so you may plan your next move

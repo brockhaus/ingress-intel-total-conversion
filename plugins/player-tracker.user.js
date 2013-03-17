@@ -2,7 +2,7 @@
 // @id             iitc-plugin-player-tracker@breunigs
 // @name           iitc: player tracker
 // @version        0.7.1
-// @namespace      https://github.com/brockhaus/ingress-intel-total-conversion
+// @namespace      https://github.com/breunigs/ingress-intel-total-conversion
 // @updateURL      https://raw.github.com/brockhaus/ingress-intel-total-conversion/gh-pages/plugins/player-tracker.user.js
 // @downloadURL    https://raw.github.com/brockhaus/ingress-intel-total-conversion/gh-pages/plugins/player-tracker.user.js
 // @description    draws trails for the path a user went onto the map. Only draws the last hour. Does not request chat data on its own, even if that would be useful.

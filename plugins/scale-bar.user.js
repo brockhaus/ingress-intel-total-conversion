@@ -2,7 +2,7 @@
 // @id             iitc-plugin-scale-bar@breunigs
 // @name           iitc: scale bar
 // @version        0.1
-// @namespace      https://github.com/brockhaus/ingress-intel-total-conversion
+// @namespace      https://github.com/breunigs/ingress-intel-total-conversion
 // @updateURL      https://raw.github.com/brockhaus/ingress-intel-total-conversion/gh-pages/plugins/scale-bar.user.js
 // @downloadURL    https://raw.github.com/brockhaus/ingress-intel-total-conversion/gh-pages/plugins/scale-bar.user.js
 // @description    shows scale bar on the map
